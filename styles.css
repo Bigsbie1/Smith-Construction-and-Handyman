@@ -61,8 +61,8 @@ body::before {
   background-image: url("IMG_20250625_153602.jpg"); /* Adjust if your path is different */
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 60%;
-  opacity: 0.04; /* Tweak from 0.03 to 0.08 if needed */
+  background-size: 40%;
+  opacity: 0.08; /* Tweak from 0.03 to 0.08 if needed */
   z-index: -1;
   pointer-events: none;
 }
